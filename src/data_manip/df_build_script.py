@@ -9,11 +9,16 @@ metrics = [
     'blood_pressure',  # Blood pressure levels
     'heart_rate',   # Heart rate
     'heart_rate_variability',  # Heart Rate Variability (HRV)
+    'stand_hours',  # Number of hours spent standing
+    'sitting_hours',  # Number of hours spent sitting
     'steps',  # Number of steps taken
-    'exercise',  # Duration and type of exercise
+    'stairs',  # Number of stairs climbed
+    'cardio',  # Duration of cardio excerise
+    'strength_training',  # Duration of strength training
+    'flexibility_training',  # Duration of flexibility training
+    'balance_training',  # Duration of balance training
     'body_weight',  # Body weight
     'blood_glucose',  # Blood glucose levels
-    'glycemic_response',  # Individual glycemic response to foods
     'blood_oxygen',  # Blood oxygen levels
     'calories',  # Calories consumed and burned
     'hydration',  # Water intake
@@ -31,6 +36,7 @@ metrics = [
     'lipid_profile',  # Regular cholesterol and triglyceride checks
     'hormone_levels',  # Including insulin, cortisol, thyroid hormones, etc.
     'dexascan_results',  # Results from DEXA scans for fat, muscle, and bone density
+    'posture_analysis',  # Analysis of posture and ergonomic habits
     
     # Mental Health
     'mood',  # General mood
@@ -72,7 +78,6 @@ metrics = [
     
     # Behavioral Patterns
     'screen_time',  # Time spent using screens (e.g., phone, computer)
-    'digital_device_usage',  # Usage patterns of digital devices
     'work_hours',  # Number of work hours
     'productivity_levels',  # Productivity levels
     'leisure_activities',  # Frequency and type of leisure activities
@@ -89,7 +94,6 @@ metrics = [
     'health_checkups',  # Regular health checkups and screenings
     
     # Personal Development
-    'learning_activities',  # Engagement in learning activities
     'education_activities',  # Educational pursuits and activities
     'personal_goals_progress',  # Progress towards personal goals
     'task_management',  # Efficiency in managing tasks
