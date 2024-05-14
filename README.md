@@ -1,5 +1,7 @@
 # ESC Velocity: Comprehensive Health and Longevity Optimization
 
+![ESC Velocity Logo](docs/imgs/logo.webp)
+
 Welcome to the ESC Velocity project repository, where cutting-edge technology meets personal health. This initiative is dedicated to pioneering the future of longevity and well-being through meticulous data-driven methodologies and state-of-the-art artificial intelligence technologies. Our mission is to harness extensive health data to forge a path towards optimized living, enhanced longevity, and superior quality of life.
 
 ## Project Vision
